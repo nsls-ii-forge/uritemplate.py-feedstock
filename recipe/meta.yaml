@@ -31,3 +31,5 @@ about:
   license: BSD-3-Clause
   license_file: LICENSE.BSD
   summary: URI templates
+  doc_url: https://uritemplate.readthedocs.org
+  dev_url: https://github.com/uri-templates/uritemplate-py
